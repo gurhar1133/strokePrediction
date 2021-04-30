@@ -6,7 +6,7 @@
 ### See gurharStrokePredict.ipynb for project notebook
 
 <a id='data-source'></a>
-#### Data source
+### Data source
 * This dataset comes from kaggle: https://www.kaggle.com/fedesoriano/stroke-prediction-dataset
 * As indicated by the name of the dataset, this dataset is for stroke prediction
 * There are 11 attributes per data object (not including id). With 8 categorical attributes (6 of which appear to be binary/boolean) and 3 numerical attributes.
