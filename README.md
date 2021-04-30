@@ -3,6 +3,8 @@
 * The primary goal of this project will be to accurately classify whether a person will have a stroke. I initially had plans to perform regression on one of the continuous variables, but opted to focus soley on classification given that a class imbalance issue, which I will discuss more, came to light and classification proved to need more attention
 * The motivation behind this project is the obvious medical importance of data science based diagnostics. Additionally, getting practice with classification, where data science practice is another motivator for this project.
 
+### See gurharStrokePredict.ipynb for project notebook
+
 <a id='data-source'></a>
 #### Data source
 * This dataset comes from kaggle: https://www.kaggle.com/fedesoriano/stroke-prediction-dataset
